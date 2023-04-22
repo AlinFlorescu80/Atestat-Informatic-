@@ -1,0 +1,6 @@
+C:\Users\asula\Desktop\Folders\Informatica\Atestat\Vectori try 1\Debug\Vectori try 1.vcxprojAssemblyReference.cache
+C:\Users\asula\Desktop\Folders\Informatica\Atestat\Vectori try 1\Debug\Vectoritry1.MyForm.resources
+C:\Users\asula\Desktop\Folders\Informatica\Atestat\Vectori try 1\Debug\Vectori try 1.vcxproj.GenerateResource.cache
+C:\Users\asula\Desktop\Folders\Informatica\Atestat\Vectori try 1\Debug\Vectori try 1.exe
+C:\Users\asula\Desktop\Folders\Informatica\Atestat\Vectori try 1\Debug\Vectori try 1.pdb
+C:\Users\asula\Desktop\Folders\Informatica\Atestat\Vectori try 1\Debug\Vectoritry1.About.resources
